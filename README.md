@@ -33,6 +33,11 @@ dengan mengahapus tanda ; titik coma maka akan terjadi muncul pesan Whoops :
 
 ![image](https://user-images.githubusercontent.com/81596251/121990669-58afc680-cdc8-11eb-885a-c00076a8c896.png)
 
+![image](https://user-images.githubusercontent.com/81596251/121993172-32d8f080-cdcd-11eb-9c21-2ebdfdc38398.png)
+
+![image](https://user-images.githubusercontent.com/81596251/121993596-f6f25b00-cdcd-11eb-92ed-ba591c1766ed.png)
+
+
 konfigurasi Routing dan Controller yg terletak di app/config/Routes.php
 
 ![image](https://user-images.githubusercontent.com/81596251/121991102-336f8800-cdc9-11eb-97cd-86964bab0037.png)
