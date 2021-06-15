@@ -39,3 +39,10 @@ konfigurasi Routing dan Controller yg terletak di app/config/Routes.php
 
 menambahkan Route baru di routes.php :
 
+![image](https://user-images.githubusercontent.com/81596251/121992158-484d1b00-cdcb-11eb-91fa-407036c323c1.png)
+
+konfigurasi Routing dan Controller yg terletak di app/config/Routes.php :
+
+![image](https://user-images.githubusercontent.com/81596251/121992456-e04b0480-cdcb-11eb-91e9-d8d9eb452921.png)
+
+![image](https://user-images.githubusercontent.com/81596251/121992842-9e6e8e00-cdcc-11eb-9c9f-c46ff03fadb5.png)
