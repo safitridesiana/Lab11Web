@@ -1,4 +1,4 @@
-# Lab11_Web
+# Lab11Web
 PHP Framework (codeigner)
 
 Nama : DESIANA EKA SAFITRI
