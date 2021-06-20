@@ -82,6 +82,11 @@ MEMBUAT DATABASE *__lab_ci4__*
 
 ![image](https://user-images.githubusercontent.com/81596251/122662135-d3a72180-d1ba-11eb-9867-f7896d8f8454.png)
 
+MEMBUAT TABEL *__artikel__*
+
+![image](https://user-images.githubusercontent.com/81596251/122662491-9001e700-d1bd-11eb-8f8d-5473657b4816.png)
+
+
 KONFIGURASI KONEKSI DATABASE 
 
 ![image](https://user-images.githubusercontent.com/81596251/122662221-71025580-d1bb-11eb-8c6e-b2d8a0dfdd00.png)
@@ -99,6 +104,8 @@ MEMBUAT VIEW
 ![image](https://user-images.githubusercontent.com/81596251/122662308-2af9c180-d1bc-11eb-8d16-1f1aa8330271.png)
 
 TAMPILAN WEB (https://localhost:8080/artikel)
+
+![image](https://user-images.githubusercontent.com/81596251/122662424-04885600-d1bd-11eb-8971-7e2371948801.png)
 
 
 
