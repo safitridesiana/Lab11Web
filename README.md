@@ -107,6 +107,24 @@ TAMPILAN WEB (https://localhost:8080/artikel)
 
 ![image](https://user-images.githubusercontent.com/81596251/122662424-04885600-d1bd-11eb-8971-7e2371948801.png)
 
+hasil
+
+![image](https://user-images.githubusercontent.com/81596251/122920993-300d6b00-d38c-11eb-9722-855cb82f0280.png)
+
+Membuat View Detail dengan nama app/views/artikel/detail.php :
+
+![image](https://user-images.githubusercontent.com/81596251/122921325-8b3f5d80-d38c-11eb-8682-bd4c077b3b2a.png)
+
+hasil outputnya :
+
+![image](https://user-images.githubusercontent.com/81596251/122921537-ccd00880-d38c-11eb-8209-28a01eff49a1.png)
+
+Membuat menu admin :
+
+![image](https://user-images.githubusercontent.com/81596251/122921696-fc7f1080-d38c-11eb-8320-cc07fb5f826b.png)
+
+Membuat template admin_header dan admin_footer :
+
 
 
 
