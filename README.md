@@ -115,7 +115,7 @@ Membuat View Detail dengan nama app/views/artikel/detail.php :
 
 ![image](https://user-images.githubusercontent.com/81596251/122921325-8b3f5d80-d38c-11eb-8682-bd4c077b3b2a.png)
 
-hasil outputnya :
+Hasil outputnya :
 
 ![image](https://user-images.githubusercontent.com/81596251/122921537-ccd00880-d38c-11eb-8209-28a01eff49a1.png)
 
@@ -123,7 +123,31 @@ Membuat menu admin :
 
 ![image](https://user-images.githubusercontent.com/81596251/122921696-fc7f1080-d38c-11eb-8320-cc07fb5f826b.png)
 
+Membuat admin_index
+
+![image](https://user-images.githubusercontent.com/81596251/122924515-09513380-d390-11eb-9b0b-8c0c2b4e51db.png)
+
+Membuat template admin_header dan admin_footer
+Admin_header
+
+![image](https://user-images.githubusercontent.com/81596251/122926226-d3ad4a00-d391-11eb-8af1-69c3c13af211.png)
+
+
+Admin_footer
+
+![image](https://user-images.githubusercontent.com/81596251/122926409-06efd900-d392-11eb-9795-2a1778954e40.png)
+
+Hasil tampilan
+
+![image](https://user-images.githubusercontent.com/81596251/122927613-40751400-d393-11eb-9a28-0e3e647c0b4f.png)
+
+
+
+
+
 Membuat template admin_header dan admin_footer :
+
+
 
 
 
