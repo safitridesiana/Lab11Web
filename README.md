@@ -142,10 +142,9 @@ Hasil tampilan
 ![image](https://user-images.githubusercontent.com/81596251/122927613-40751400-d393-11eb-9a28-0e3e647c0b4f.png)
 
 
+Menambah Data Artikel
 
 
-
-Membuat template admin_header dan admin_footer :
 
 
 
